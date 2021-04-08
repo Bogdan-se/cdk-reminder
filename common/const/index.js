@@ -1,0 +1,5 @@
+const DYNAMODB_BATCH_SIZE = 25;
+
+export {
+    DYNAMODB_BATCH_SIZE
+};
